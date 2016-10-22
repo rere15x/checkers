@@ -661,7 +661,7 @@ public class CheckerPanel extends JPanel implements MouseMotionListener, MouseLi
 	}
 	@Override
 	public void mouseReleased(MouseEvent e) {
-		// TODO Auto-generated method stub
+		// TODO A6uto-generated method stub
 		
 			highlight11=false;
 
