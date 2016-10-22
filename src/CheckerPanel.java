@@ -657,7 +657,7 @@ public class CheckerPanel extends JPanel implements MouseMotionListener, MouseLi
 							square64=true;
 							System.out.println(" pressed "+square24);
 							}
-	//изменено управление шашками	
+	//изменен управление шашками	
 	}
 	@Override
 	public void mouseReleased(MouseEvent e) {
